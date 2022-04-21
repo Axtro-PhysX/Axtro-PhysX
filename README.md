@@ -4,4 +4,4 @@ He/Him
 
 I mostly work with Python and Java but I'm familiarizing myself with JavaScript, HTML, C/C++ along with Ruby and Go for future project/career usage. 
 
-This page is used as a hub for both my school and personal projects. 
+This page is used as a hub for both my school and personal projects (not all of which are public facing.)
