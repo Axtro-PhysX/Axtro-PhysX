@@ -5,3 +5,5 @@ He/Him
 I mostly work with Python and Java but I'm familiarizing myself with JavaScript, HTML/CSS, SQL, C/C++ along with Ruby, Go and Git for future project/career usage. 
 
 This page is used as a hub for both my school and personal projects (not all of which are public facing repositories.)
+
+Resume Website: https://axtro-physx.github.io/Resume-Website/
