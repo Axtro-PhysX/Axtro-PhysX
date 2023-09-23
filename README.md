@@ -4,4 +4,4 @@ He/Him
 
 This page is used as a hub for both my school and personal projects (not all of which are public facing repositories.)
 
-Resume Website: https://axtro-physx.github.io/Resume-Website/
+My website: https://blog.nisanth.net/
