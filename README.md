@@ -7,12 +7,13 @@ currently working as a security engineer @ vanguard
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
 ![React.js](https://img.shields.io/badge/Library-ReactJs-61DAFB?logo=react&logoColor=white)
 
-i specialize in security operations, engineering, and software development (mostly full-stack experience), but i'm always learning new things! 
+i specialize in security operations, engineering, and software development (mostly full-stack), but i'm always learning new things. going after my OSCP & OSWA at the moment.
 
 # current interests
 
 * getting paid to break things and calling it a career
-* active directory pen-testing (it's a mess. every time.)
-* the art of typing "sudo" before everything until it works
-* metasploit modules made when i was 1 year old
+* metasploit modules made before i hit puberty
 * curl | bash and hoping for the best
+* active directory (it never ends)
+* impacket
+* more impacket
