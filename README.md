@@ -11,7 +11,7 @@ i specialize in security operations, engineering, and software development (most
 
 # current interests
 
-* getting paid to break things and calling it a career
+* getting paid to break things (in a good way of course) and calling it a career
 * metasploit modules made before i hit puberty
 * curl | bash and hoping for the best
 * active directory (it never ends)
